@@ -1,0 +1,8 @@
+{
+  "item.mi_sound_addon.mallet": "Стальная киянка",
+
+  "message.mi_sound_addon.creative_tab": "MI Sound Addon",
+  "message.mi_sound_addon.tooltip": "Нажмите ПКМ по механизму, чтобы включить или отключить его звуки",
+  "message.mi_sound_addon.machine_silenced": "Звуки механизма отключены",
+  "message.mi_sound_addon.machine_unsilenced": "Звуки механизма включены"
+}
